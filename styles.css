@@ -1,0 +1,49 @@
+.brand-logo, .brand-logo2
+{
+    background-color: darkblue;
+    float:left;
+    width: 40px;
+    height: 40px;
+    padding: 2em;
+    padding-top: 3em;
+}
+.brand-logo2
+{
+    background-color: lightseagreen;
+}
+
+.optIn form{
+    margin-left: 80px;
+    float:right;
+
+}
+
+.optIn
+{
+    width: 35em;
+    height: 9em;
+    border: 2px solid black;
+    padding: 3em;
+    margin: 2em;
+}
+.optIn button
+{
+    margin-top: 4em;
+    margin-left: 8em;
+    font-size: 1em;
+    display: block;
+    text-align: right;
+
+}
+.optIn input
+{
+    margin: 5px;
+}
+.optIn h2
+{
+    margin-top: -2.5em;
+    display: block;
+    background-color: white;
+    width: 3em;
+    padding-left: .5em;
+}
